@@ -1,0 +1,27 @@
+{
+  "greeting": [
+    "Hello! I am Shivansh's portfolio chatbot. I am here to provide information based on Shivansh's CV.",
+    "Before proceeding, please provide your name and email id. It is compulsory to continue. If you have any questions related to Shivansh's CV, feel free to ask! I will only answer questions related to his CV."
+  ],
+  "details": "Shivansh Tripathi, based in Noida, India, can be reached at P: shivanshtri010@gmail.com, and his LinkedIn profile is available at linkedin.com/in/shivanshtri010.",
+  "experience": "During the period of Oct 2023 to Nov 2023, a Data Analytics Consulting Virtual Internship at KPMG was undertaken. The focus was on advising a client on customer targeting with the Data, Analytics & Modeling team...",
+  "projects": {
+    "Upastithi-Smart Attendance System": "A face detection and recognition system...",
+    "Car License Plate Detection and Extraction": "A web-based application for efficient car license plate detection and extraction was developed using Flask, OpenCV, TensorFlow Lite, and Tesseract...",
+    "Sentiment Analysis Web Application using Natural Language Processing": "A user-friendly web application was developed using Flask and integrated with TextBlob for sentiment and subjectivity analysis...",
+    "Fake News Detection": "A fake news detection model using the Multinomial Naive Bayes algorithm was implemented...",
+    "File Organizer": "A Python script for efficient file organization was developed...",
+    "Portfolio Chatbot using Google Gemini": "Developed a chatbot using Google Gemini Pro for Shivansh's portfolio. The chatbot provides information based on Shivansh's CV. Implemented various features for a dynamic and engaging user experience."
+  },
+  "skills": "Shivansh possesses proficiency in various skills, including Computer Vision, C/C++, Data Analysis, Linux, Git and GitHub, Analytics and Modeling, Image Processing, Python, Machine Learning, Data Structure and Algorithms, Natural Language Processing, Convolutional Neural Network, MySQL, Google Cloud Platform, Problem Solving, TensorFlow, Project Management, and Data Visualization.",
+  "certifications": [
+    "Shivansh has engaged in sharing insights on several technical topics on Quora, accumulating over 7.8k views.",
+    "He has completed certifications such as Deep Learning with TensorFlow 2 on 365 Data Science, Convolutional Neural Network with TensorFlow in Python on 365 Data Science, Google IT Automation with Python, Getting Started with Machine Learning Algorithms on Simplilearn, and Data Science with Python on Simplilearn...",
+    "Additionally, he has completed SQL for Data analytics on Udemy."
+  ],
+  "education": [
+    "Shivansh is currently pursuing a Bachelor of Engineering in Electronics and Communication Engineering at JSS Academy of Technical Education, Noida, from 2021 onwards. His SGPA until the 4th Semester is 7.59.",
+    "For his Higher Secondary Education in PCM, Shivansh achieved 85.2% from St. Michael’s Convent School, Mankapur, from 2018 to 2020.",
+    "For Secondary School Education, he secured 85.8% from St. Michael’s Convent School, Mankapur, in 2017-2018."
+  ]
+}
